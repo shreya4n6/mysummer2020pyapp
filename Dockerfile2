@@ -1,5 +1,0 @@
-FROM python
-MAINTAINER talukdarboni30@gmail.com , 8918939060
-RUN mkdir /mycode1
-copy bony2.py /mycode/bony2.py
-CMD python /mycode2/bony2.py
